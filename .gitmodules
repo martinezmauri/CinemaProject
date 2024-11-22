@@ -1,0 +1,3 @@
+[submodule "CinemaFrontend"]
+	path = CinemaFrontend
+	url = https://github.com/martinezmauri/CinemaFrontend.git
