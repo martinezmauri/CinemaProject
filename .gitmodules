@@ -1,3 +1,6 @@
 [submodule "CinemaFrontend"]
 	path = CinemaFrontend
 	url = https://github.com/martinezmauri/CinemaFrontend.git
+[submodule "CinemaBackend"]
+	path = CinemaBackend
+	url = https://github.com/martinezmauri/CinemaBackend.git
